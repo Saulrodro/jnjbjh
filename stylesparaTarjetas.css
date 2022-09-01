@@ -1,0 +1,5 @@
+.contenidoPadre{
+    display: grid;
+    grid-template-columns: 33.34% 33.34% 33.34%;
+    gap: 2rem;
+}
